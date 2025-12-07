@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #HOMEWORKTHREE
 #3.1
 name = "valerie"
@@ -147,6 +146,4 @@ print(f"The result of Oski Stole Your Power(5.1) with x  = {6} and y = {8} is {1
 #         result = result * x
 #     return result
 # print(powerthatworks(x, y))h
-=======
 
->>>>>>> 403d2109fdefb34c1f899e2c749b67a32c69b239
