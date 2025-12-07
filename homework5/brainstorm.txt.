@@ -1,0 +1,36 @@
+1. List 5 topics related to astronomy, physics, technology, science or math that sound interesting
+to you.
+
+1.) Black Holes
+2.) Exoplanets
+3.) Space Law and policy
+4.) Satellite congestion and kessler syndrome
+5.)Satellite survaillence and imagery
+
+
+2. For three of these topics, find a dataset, tool, news article, or paper online that relates to it.
+Summarize how each source relates to the topic in your own words.
+
+Topic 1:) Exoplanets
+Source: NASA Exoplaent Archive
+Summary: This archive tracks confirmed exoplanets with radius, mass, orbital period, and detection method. It connects because it allows analysis of trends such as which star types are most likely to host planets.
+
+Topic 2.) Black Holes
+Source: NASA Chandra X-ray Observatory Public dataset
+Summary: This dataset contains x-ray observations of accreting black holes. It relates to the topic because it provides real data used to identify black hole candidates and study their radiation signatures.
+
+Topic 3.) Space law and policy
+Source: Uchicago law School Chicago Journal of International Law
+Summary: The article explains that existing legal systems struggle to keep up with the rapid growth of space technology, making it hard to apply traditional rules to activities beyond Earth. It relates to space law by showing how questions of responsibility, safety, and regulation become more complicated once actions take place in outer space.
+
+3. Choose one topic and brainstorm how you could Python skills (loops, conditionals, functions,
+lists/dictionaries, github, version control) to explore, analyze or create something with it.
+
+I could use Python to analyze the Chandra black hole dataset by writing loops and conditionals that sort observations by brightness, filter out noise, and identify possible accretion events. Lists, dictionaries, and functions would help organize each object’s properties, and using GitHub with version control would let me track changes as I build a small analysis tool that visualizes black hole radiation patterns.
+
+
+4. Write down at least two possible project ideas connected to your topic. One should be
+ambitious (a “dream” version) and the other should be smaller, simpler version that you
+could realistically finish in a few week
+
+My ambitious project idea would be to build a full Python pipeline that scans the Chandra dataset, filters for x ray variability, and automatically flags potential black hole candidates with visualizations. My simpler and more realistic project would just load a smaller part of the data, filter sources by brightness, and make a couple plots that show how black hole candidates stand out from normal x ray objects.
